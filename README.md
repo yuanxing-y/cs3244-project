@@ -15,7 +15,7 @@ Details of the curated datasets are on the CS3244 Project Datasets document: htt
 - Stock Market Dataset
 https://www.kaggle.com/jacksoncrow/stock-market-dataset
 
-###4. Dataset description
+### 4. Dataset description
 Write in your own words (1-2 sentences) what this dataset describes.
 Rubric:
 a) Does your description specify features and instances?
@@ -36,11 +36,11 @@ b) Do you describe the source and reliability of the data?
 - The dataset is provided by a user on kaggle, Boris Marjanovic. The stock price data is open to the public. The data are reliable as constant feedback has been given by different users in the discussion section in the case where they found any errors in the data.
 
 
-###5. Project Title
+### 5. Project Title
 - Title: Stock Market Prediction
 - Description: Predict the close prices of a stock for a future time range to help traders in decision making, whether the trader should buy or sell the stocks.
 
-###6. Motivation
+### 6. Motivation
 Explain why this project is interesting and important.
 
 Rubric:
@@ -51,7 +51,7 @@ Does it justify the problem’s significance? What are the benefits of addressin
 
 
 
-###7. Statement of the Problem/Task
+### 7. Statement of the Problem/Task
 A statement of the problem, issue, or task that you’re interested in studying. In particular, try to formulate the key questions (2 to 4 questions is probably a good number) that your group will answer in the project.
 As this proposal document is self-contained, you should restate your project topic and domain.
 The information you provide here will also help to assign appropriate reviewers.
@@ -78,7 +78,7 @@ b) Does it include preliminary plans for evaluation, data gathering? I.e., how t
 - We will test out different models such as Linear Regression, k-Nearest Neighbors, Auto ARIMA, etc. and compare their performances, to evaluate which model gives the best performance. In addition, we will research more on the possible evaluation methods for our model prediction. We will explore different indicators in technical analysis to determine whether it is suitable to be used as one of the approaches for deciding on the features for our model.
 
  
-###9. Evaluation
+### 9. Evaluation
 Include how you will evaluate your project. Propose what your team thinks is a satisfactory project outcome (C grade) and an excellent project outcome (A grade).
 
 Rubric:
@@ -91,7 +91,7 @@ b) Does it include preliminary plans for evaluation, data gathering? I.e., how t
 - Through the above evaluation, we will be able to find out which time range gives the best prediction for each possible model by implementing feature engineering on the given dataset.
 
 
-###10. Additional Resources
+### 10. Additional Resources
 A list of resources you have/need to conduct the project. This includes additional reading, software, datasets, code (Github link), etc., beyond your chosen dataset. Are these resources public? How are you planning to get these resources?
 
 Rubric: 
@@ -107,7 +107,7 @@ b) Does the team describe any strategy for getting the resources?
     - Visualisation tools: Python libraries, such as Matplotlib, seaborn
     - Recent stock data (2017 to 2020): https://www.kaggle.com/jacksoncrow/stock-market-dataset
  
-###11. Schedule / Role Assignment
+### 11. Schedule / Role Assignment
 A schedule of work indicating the dates by which you plan to complete components of the project. Make sure the schedule is plausible.
 You may find that a table format with the remaining weeks of the course helpful to describe this goal.
 
