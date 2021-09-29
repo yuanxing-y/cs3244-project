@@ -42,6 +42,7 @@ b) Do you describe the source and reliability of the data?**
 
 ### 6. Motivation
 **Explain why this project is interesting and important.**
+
 **Rubric:
 Does your motivation clearly describe a problem? 
 Does it justify the problem’s significance? What are the benefits of addressing this problem? Who benefits from solving it?**
@@ -92,6 +93,7 @@ b) Does it include preliminary plans for evaluation, data gathering? I.e., how t
 
 ### 10. Additional Resources
 **A list of resources you have/need to conduct the project. This includes additional reading, software, datasets, code (Github link), etc., beyond your chosen dataset. Are these resources public? How are you planning to get these resources?**
+
 **Rubric: 
 a) Does the proposal give a short list of resources the team plans to use to execute the project (inclusive of readings, software, datasets, etc.)?
 b) Does the team describe any strategy for getting the resources?**
