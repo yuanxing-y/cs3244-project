@@ -99,13 +99,13 @@ a) Does the proposal give a short list of resources the team plans to use to exe
 b) Does the team describe any strategy for getting the resources?
 
 - Our team decides to use the following resources. They are all available online and they are public. The resources can be found in the links below.
-- Towards Data Science: https://towardsdatascience.com/
-- Analytics Vidhya: https://www.analyticsvidhya.com/
-- Investopedia: https://www.investopedia.com/
-- Trading View (reference for technical analysis tools): https://www.tradingview.com/chart
-- Software used: Google Colab
-- Visualisation tools: Python libraries, such as Matplotlib, seaborn
-- Recent stock data (2017 to 2020): https://www.kaggle.com/jacksoncrow/stock-market-dataset
+    - Towards Data Science: https://towardsdatascience.com/
+    - Analytics Vidhya: https://www.analyticsvidhya.com/
+    - Investopedia: https://www.investopedia.com/
+    - Trading View (reference for technical analysis tools): https://www.tradingview.com/chart
+    - Software used: Google Colab
+    - Visualisation tools: Python libraries, such as Matplotlib, seaborn
+    - Recent stock data (2017 to 2020): https://www.kaggle.com/jacksoncrow/stock-market-dataset
  
 ###11. Schedule / Role Assignment
 A schedule of work indicating the dates by which you plan to complete components of the project. Make sure the schedule is plausible.
